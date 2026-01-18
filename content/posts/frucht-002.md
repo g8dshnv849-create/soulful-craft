@@ -2,7 +2,7 @@
 date = '2026-01-18T21:23:07+01:00'
 draft = false
 title = 'Zeit als Verbündeter'
-tags = ['fruchte']
+tags = ['frucht']
 +++
 
 ---
