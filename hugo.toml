@@ -6,9 +6,10 @@ theme = 'PaperMod'
 
 [[menu.main]]
 name = "Frucht"
-url = "/tags/frucht/"weight = 1
+url = "/tags/frucht/"
+weight = 1
 
 [[menu.main]]
 name = "DADA"
-url = "tags/frucht/"
+url = "/tags/dada/"
 weight = 2
