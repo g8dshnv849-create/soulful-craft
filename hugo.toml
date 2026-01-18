@@ -1,7 +1,7 @@
-baseURL = 'https://www.soulful-craft.com/'
-languageCode = 'de-de'
-title = 'Soulful Craft'
-theme = 'PaperMod'
+baseURL = "https://www.soulful-craft.com/"
+languageCode = "de-de"
+title = "Gereifte Früchte der Vorstellungskraft"
+theme = "PaperMod"
 
 
 [[menu.main]]
@@ -13,3 +13,6 @@ weight = 1
 name = "DADA"
 url = "/tags/dada/"
 weight = 2
+
+[params]
+customCSS = ["css/extended/custom.css"]
