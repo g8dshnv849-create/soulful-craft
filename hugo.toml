@@ -17,3 +17,6 @@ weight = 2
 [params]
 ShowCanonicalLink = true
 customCSS = ["css/custom.css"]
+description = "Poetische Fragmente zwischen DADA, Reife und Stille. Kein Feed. Kein Algorithmus. Nur Spuren."
+
+
