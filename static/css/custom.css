@@ -1,0 +1,86 @@
+/* =========================================
+   Soulful_Craft – Custom CSS (PaperMod Hugo)
+   Minimal / Clean / Sticker Cards
+   ========================================= */
+
+/* ---------- Titles (no forced uppercase) ---------- */
+.post-title,
+.entry-header h1 {
+  font-weight: 800;
+  letter-spacing: 0.02em;
+  text-transform: none;
+}
+
+/* ---------- Better reading flow ---------- */
+.post-content p {
+  line-height: 1.8;
+  margin: 0 0 1.2rem 0;
+}
+
+/* ---------- Blockquote: strong + simple ---------- */
+.post-content blockquote {
+  font-size: 1.15rem;
+  line-height: 1.7;
+  padding: 1.1rem 1.2rem;
+  font-weight: 600;
+}
+
+/* ---------- HR spacing ---------- */
+.post-content hr {
+  margin: 2rem 0;
+  opacity: 0.25;
+}
+
+/* ==================================================
+   LIST VIEW (Home / Tags / Sections) -> post-entry
+   ================================================== */
+.post-entry {
+  border: 2px solid rgba(0, 0, 0, 0.18);
+  border-radius: 18px;
+  padding: 18px;
+  background: rgba(0, 0, 0, 0.02);
+  transition: transform 0.12s ease, border-color 0.12s ease;
+}
+
+.post-entry:hover {
+  transform: translateY(-2px);
+  border-color: rgba(0, 0, 0, 0.35);
+}
+
+/* Dark mode list cards */
+.dark .post-entry {
+  border: 2px solid rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+.dark .post-entry:hover {
+  border-color: rgba(255, 255, 255, 0.35);
+}
+
+/* ==================================================
+   SINGLE POST VIEW -> article.post-single
+   ================================================== */
+main.main > article.post-single {
+  border: 2px solid rgba(0, 0, 0, 0.18);
+  border-radius: 18px;
+  padding: 22px;
+  background: rgba(0, 0, 0, 0.02);
+}
+
+/* Dark mode single card */
+.dark main.main > article.post-single {
+  border: 2px solid rgba(255, 255, 255, 0.18);
+  background: rgba(255, 255, 255, 0.03);
+}
+
+/* ==================================================
+   TAGS ("stamp" look)
+   ================================================== */
+.post-tags a {
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  font-weight: 700;
+  border-radius: 10px;
+  padding: 0.2rem 0.55rem;
+}
+

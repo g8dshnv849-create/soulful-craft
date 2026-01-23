@@ -15,4 +15,4 @@ url = "/tags/dada/"
 weight = 2
 
 [params]
-customCSS = ["css/extended/custom.css"]
+customCSS = ["css/custom.css"]
