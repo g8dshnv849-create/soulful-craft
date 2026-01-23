@@ -2,11 +2,14 @@
 title = ""
 +++
 
-> ***Schweigend laut.***
+> ***Schweigend laut.***  
 >
-> ***Frucht = gereift.***  
-> ***DADA = roh.*** 
-> ***Kein Feed. Kein Algorithmus.***  
+> ***Frucht = gereift.***    
+> 
+> ***DADA = roh.***  
+> 
+> ***Kein Feed. Kein Algorithmus.*** 
+> 
 > ***Nur Spuren.***
 
 
