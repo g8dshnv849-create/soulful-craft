@@ -84,3 +84,28 @@ main.main > article.post-single {
   padding: 0.2rem 0.55rem;
 }
 
+/* ==================================================
+   HOME (PaperMod LIST view) – correct selector
+   ================================================== */
+
+   body.list .list-content {
+    max-width: 38rem;
+    margin-top: 5rem;
+    font-size: 1.05rem;
+    line-height: 1.7;
+  }
+  
+  /* Absatzrhythmus */
+  body.list .list-content p {
+    margin-bottom: 1.9rem;
+  }
+  
+  /* Erste Zeile als stiller Anker */
+  body.list .list-content p:first-child {
+    font-weight: 500;
+    margin-bottom: 2.8rem;
+  }
+  
+  
+  
+  
