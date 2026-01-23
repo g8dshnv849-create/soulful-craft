@@ -15,5 +15,5 @@ url = "/tags/dada/"
 weight = 2
 
 [params]
+ShowCanonicalLink = true
 customCSS = ["css/custom.css"]
-canonicalURL = true
