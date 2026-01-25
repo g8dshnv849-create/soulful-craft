@@ -34,14 +34,18 @@ vor der Stille.
 ---
 
 Und dann schreit die innere Stimme,  
-bricht heraus wie ein Verräter, 
-um den Unverstandenen zu sagen,  
-dass sie doch verstanden sind.
+bricht heraus wie ein Verräter,   
+um den Unverstandenen zu sagen,    
+dass sie doch verstanden sind.  
 
 ---
 
 Nur Angst hält sie davon ab, es zuzugeben.  
-Angst, man selbst zu sein, 
+Angst, man selbst zu sein,   
 unverstanden.
 
+---
+
 Denn du verstehst.
+
+---

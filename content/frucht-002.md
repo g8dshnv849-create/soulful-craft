@@ -29,3 +29,5 @@ dass die Zeit, die fürs Warten vorgesehen ist,
 nicht dein Feind ist,  
 sondern dein Verbündeter,  
 damit du nicht allein warten musst.  
+
+---
