@@ -4,6 +4,7 @@ draft = false
 title = 'Der Topf ist ausgekocht' 
 tags = ['frucht'] 
 +++
+
 ---
 Der Topf ist ausgekocht.  
 Alles verdampft und kühlt ab.  
