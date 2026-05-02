@@ -7,13 +7,14 @@ tags = ['frucht']
 
 ---
 
-Der Topf ist ausgekocht. 
-Alles verdampft und kühlt ab. 
-Der Raum des Geistes schrumpft. 
-Alles schrumpft, außer der Bewusstheit. 
-Sie strebt danach, Ordnung in das Chaos zu bringen. 
-Der Mensch findet keinen Frieden. 
-Akzeptanz: ein lebendiger, erwachsener Organismus, 
-Der für sich selbst sorgen kann. 
+Der Topf ist ausgekocht.  
+Alles verdampft und kühlt ab.  
+Der Raum des Geistes schrumpft.  
+Alles schrumpft, außer der Bewusstheit.  
+Sie strebt danach, 
+Ordnung in das Chaos zu bringen.  
+Der Mensch findet keinen Frieden.  
+Akzeptanz: ein lebendiger, erwachsener Organismus,  
+Der für sich selbst sorgen kann.  
 
 ---
