@@ -5,6 +5,8 @@ title = 'Alltägliche dadaistische Prosa…'
 tags = ['dada']
 +++
 
+---
+
 Das Gewissen kann niemand – vermag niemand mit Gesetzen zu beschreiben  
 Nicht einmal die Gesamtheit aller weltweit bekannten Religionen  
 Manchmal bitten wir beiläufig um etwas  
@@ -52,18 +54,4 @@ Irgendwelcher Ramsch und aufgewärmte Luft aufblitzt…
 
 ---
 
-Ist es nicht vielleicht an der Zeit  
-Für den Einsatz von Kindern bei Schlagerauftritten  
-Dieselbe Strafe anzuwenden oder eine ähnliche  
-Wie für Pädophile  
-In meiner Wahrnehmung  
-Ist das psychologische Gewalt   
-In ihrer schwersten Ausprägung  
-Im besten Fall sind sie sich völlig nicht bewusst  
-Was sie singen…  
-
----
-
-*(manchmal nachts, an fremdem Ort)*  
-
----
+*(2011)*
