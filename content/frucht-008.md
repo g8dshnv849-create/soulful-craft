@@ -16,9 +16,9 @@ Von Zahlen und Statistiken.
 
 ---
 
-Doch ich wähle,
-Meine eigene Farbe zu malen-
-Den ewigen Tag meines Lebens.
+Doch ich wähle,  
+Meine eigene Farbe zu malen-  
+Den ewigen Tag meines Lebens.  
 
 ---
 
