@@ -1,9 +1,8 @@
-+++
-title = "Das Boot, das steht"
-date = 2026-05-06
-slug = "frucht-011"
-tags = ["reflexion", "essay"]
-draft = false
++++ 
+date = '2026-05-06'  
+draft = false  
+title = 'Das Boot, das steht'  
+tags = ['frucht']  
 +++
 
 ---
@@ -28,4 +27,6 @@ Ich habe die Verantwortung übernommen, nicht für das Boot, nicht für die ande
 
 Das Boot steht noch immer auf dem Gelände. Vermutlich wird es lange stehen.
 
-Ich gehe, und diesmal weiß ich, wohin.
+Ich gehe, und diesmal weiß ich, wohin.  
+
+---
