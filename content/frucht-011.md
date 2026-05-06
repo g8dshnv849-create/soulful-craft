@@ -15,7 +15,7 @@ Vor einiger Zeit fand ich mich in einer Gemeinschaft wieder, die jemand anderes 
 
 Ich habe es akzeptiert. Ich habe mir gesagt, dass ich es durchschaue, dass ich meinen Blick auf meine eigenen Ziele gerichtet halte. Und genau das war das Problem.
 
-Die anderen im Boot hatten jeder ihren eigenen Grund zu bleiben. Der eine brauchte Kontrolle und Einfluss.Nicht aus böser Absicht, sondern weil es das Einzige war, was er gelernt hatte, wenn er sich unsicher fühlte. Ein anderer hatte sich den bequemsten Platz gesichert und verteidigte ihn lautlos. Wieder ein anderer sammelte Verbündete, weil Zugehörigkeit für ihn Sicherheit bedeutete. Niemand hinterfragte das Boot selbst. Niemand fragte, wohin es geht, was auch daran lag, dass es keine Richtung hatte. Kein Vorne, kein Hinten. Keine Verpflichtung, nirgendwo anzukommen.
+Die anderen im Boot hatten jeder ihren eigenen Grund zu bleiben. Der eine brauchte Kontrolle und Einfluss. Nicht aus böser Absicht, sondern weil es das Einzige war, was er gelernt hatte, wenn er sich unsicher fühlte. Ein anderer hatte sich den bequemsten Platz gesichert und verteidigte ihn lautlos. Wieder ein anderer sammelte Verbündete, weil Zugehörigkeit für ihn Sicherheit bedeutete. Niemand hinterfragte das Boot selbst. Niemand fragte, wohin es geht, was auch daran lag, dass es keine Richtung hatte. Kein Vorne, kein Hinten. Keine Verpflichtung, nirgendwo anzukommen.
 
 Ich habe lange gebraucht, um zu verstehen, warum mich das lähmte.
 
@@ -27,6 +27,7 @@ Ich habe die Verantwortung übernommen, nicht für das Boot, nicht für die ande
 
 Das Boot steht noch immer auf dem Gelände. Vermutlich wird es lange stehen.
 
-Ich gehe, und diesmal weiß ich, wohin.  
+Ich gehe -  
+und diesmal weiß ich, wohin.  
 
 ---
