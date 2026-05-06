@@ -1,6 +1,6 @@
 +++ 
 date = '2026-05-06'  
-draft = thrue  
+draft = true  
 title = 'Das Boot, das steht'  
 tags = ['frucht']  
 +++
